@@ -3,8 +3,8 @@
 
 #### How do I add it to my Pi-Hole server?
 Go to where you can add custom filters and type in:
-https://tc012.gtk.cl/xa-adlist/cfads.txt (if you can't connect to https use http :))
+https://tc012.github.io/xa-adlist/cfads.txt
 
 #### Install it on Windows (easy) 
 by using this script to change the hosts file and make sure to run it as Administator :D
-https://tc012.gtk.cl/xa-adlist/xa-adlist.cmd
+https://tc012.github.io/xa-adlist/xa-adlist.cmd
